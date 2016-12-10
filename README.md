@@ -55,3 +55,6 @@ Kapreka Numbers Found: (1 - 50000)
 
 ### Still to do ###
 - The program accurately finds Kapreka Numbers up to the 50,000 range. Any higher will result with incorrect values.
+
+### See ###
+Kapreka Numbers: https://en.wikipedia.org/wiki/Kaprekar_number
