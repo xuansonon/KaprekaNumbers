@@ -11,8 +11,8 @@ You will be asked the following:
 Please enter a starting range number:
 Please enter a ending range number:
 ```
-<br />
 ### Example Input and Outputs ###
+### Example 1 ###
 ```
 Starting range: 1, Ending range: 300
 ```
@@ -25,7 +25,7 @@ Kapreka Numbers Found: (1 - 50000)
 99 (98 + 1).
 297 (88 + 209).
 ```
-<br />
+### Example 2 ###
 ```
 Starting range: 1, Ending range: 50000
 ```
