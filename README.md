@@ -1,5 +1,9 @@
 # KaprekaNumbers
-A simple Java-based console application that finds Kapreka Numbers from a users' input ranges. Kapreka Numbers are numbers in which when rooted and seperated, it the sum of the digits is the original number. For example, let's say 45. 45 squared is 2025. When we seperate 20 and 25, the sum of those those numbers is 45. Another example could be 297. The sqaure value of 297 is 88209. The sum of 88 and 209 equals to 297. As we can see, it can be any number of digits combined so long as it's less than or equal to the number of digits of the rooted number.
+A simple Java-based console application that finds Kapreka Numbers from a users' input ranges. Kapreka Numbers are numbers in which when rooted and seperated, it the sum of the digits is the original number. For example, let's say 45. 45 squared is 2025. When we seperate 20 and 25, the sum of those those numbers is 45. Another example could be 297. The sqaure value of 297 is 88209. The sum of 88 and 209 equals to 297. As we can see, it can be any number of digits combined so long as it's less than or equal to the number of digits of the rooted number and the second digit is greater than 0.
+<br />
+<br />
+### Common Misconceptions for Kapreka Numbers ###
+- 10 is not a Kapreka Number (Despite: 10^2 = 100 -> 10 + 0 = 10), because according to D. R. Kapreka's formula, X^2 = Ab^n + B. B must be neither a negative or a zero integer. (i.e B > 0).
 <br />
 <br />
 ### How to start the application ###
