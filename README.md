@@ -3,7 +3,7 @@ A simple Java-based console application that finds Kapreka Numbers from a users'
 <br />
 <br />
 ### Common Misconceptions for Kapreka Numbers ###
-- 10 is not a Kapreka Number (Despite: 10^2 = 100 -> 10 + 0 = 10), because according to D. R. Kapreka's formula, X^2 = Ab^n + B. B must be neither a negative or a zero integer. (i.e B > 0).
+10 is not a Kapreka Number (Despite: 10^2 = 100 -> 10 + 0 = 10), because according to D. R. Kapreka's formula, X^2 = Ab^n + B. B must be neither a negative or a zero integer. (i.e B > 0).
 <br />
 <br />
 ### How to start the application ###
